@@ -1,0 +1,40 @@
+#searchBar {
+    width: 80%;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+}
+
+#carousel {
+    display: flex;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+
+/* Estilos CSS */
+#search-bar {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#movie-carousel {
+    display: flex;
+    overflow-x: scroll;
+    padding: 10px;
+}
+
+.movie-card {
+    flex: 0 0 auto;
+    width: 3o0px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+body{
+    color: #fffdfd;
+}
